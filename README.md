@@ -18,8 +18,9 @@ python3 port.py
 - python3 port.py
 ```
 ## Demo image!
-![port_scanner](https://user-images.githubusercontent.com/54176283/206868773-78b08373-4dd1-455c-a94f-8e18b413284b.png)
-![port_scanner2](https://user-images.githubusercontent.com/54176283/206908540-20df0b5d-ddfb-45e2-ab36-996f5f3b5737.png)
+![port_scanner](https://user-images.githubusercontent.com/54176283/208231373-cfe0ed13-edcc-45df-9e57-3327935fbad0.png)
+![port_scanner3](https://user-images.githubusercontent.com/54176283/208231314-fbef4734-279a-4182-8d11-8ec7619c8194.png)
+
 
 
 
