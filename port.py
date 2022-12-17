@@ -36,6 +36,12 @@ def scan_port(port):
     conn = s.connect_ex((target, port))
     if(conn == 0):
         print(f"Port {port} is OPEN")
+        try:
+            service = socket.getservbyport(port) #to detect service running on the port
+            print(f"Service running: {service}")
+        except:
+            print(f"Service running: NOT FOUND!!")
+        print("-"*40)
     s.close() 
 try:
     for port in range(start_port, end_port + 1):
