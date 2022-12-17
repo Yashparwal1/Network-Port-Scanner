@@ -1,6 +1,6 @@
 # TCP Port Scanner 
 
-A simple but fast TCP port scanner script written in python3.   
+A simple but fast TCP port scanner and service detection script written in python3.   
 
 ## Installation
 
